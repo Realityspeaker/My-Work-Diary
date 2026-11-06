@@ -1,13 +1,27 @@
-## 📝 Daily Work Template
+# 📓 Daily Work Log Template
 
-Use this template to record your daily development activities and task updates.
+## 📅 Date: DD-MM-YYYY
 
-- 📄 [Daily Work Template](Templates/Daily_Template.md)
+### 🔹 Task 1: [Task Title]
 
-### How to Use
-1. Open the Daily Work Template.
-2. Copy the template content.
-3. Open the relevant project's `WorkLog.md`.
-4. Add a new date section.
-5. Update task descriptions and status.
-6. Update project analytics and the global summary.
+- **Project**: [Project Name]
+- **Requirement / Issue**: [Describe the requirement or issue]
+- **Solution / Progress**: [Explain what you completed or changed]
+- **Status**: ⏳ Pending / 🔄 In Progress / ✅ Completed
+
+---
+
+### 🔹 Task 2: [Task Title]
+
+- **Project**: [Project Name]
+- **Requirement / Issue**: [Describe the requirement or issue]
+- **Solution / Progress**: [Explain what you completed or changed]
+- **Status**: ⏳ Pending / 🔄 In Progress / ✅ Completed
+
+---
+
+*Last Updated: DD Month YYYY*
+
+
+
+you only give my project task today
