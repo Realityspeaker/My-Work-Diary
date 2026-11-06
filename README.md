@@ -1,11 +1,6 @@
 # My-Work-Diary
 Daily Software Development Work Reports and Progress.
 
-
-# 📓 MyWorkDiary
-
-**Personal Software Development Work Tracker**
-
 A centralized work diary to maintain daily activities, development tasks, technical issues, solutions, project progress, and performance analytics.
 
 ## 📊 Global Analytics & Dashboard
