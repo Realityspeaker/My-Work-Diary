@@ -31,19 +31,5 @@ A centralized work diary to maintain daily activities, development tasks, techni
 - 📝 [Work Log](ESSL_Attendance/WorkLog.md)
 - 📈 [Task Analytics](ESSL_Attendance/Analytics.md)
 
-## 📋 Daily Work Tracking
-
-- [Daily Work Template](Templates/Daily_Template.md)
-
-## 📌 Task Status
-
-| Status | Description |
-|---|---|
-| 🟢 Completed | Task finished |
-| 🟡 In Progress | Currently working |
-| 🔴 Pending | Not started / waiting |
-| 🔵 On Hold | Temporarily stopped |
-
----
 
 **Maintained daily | Software Development | Project Management**
