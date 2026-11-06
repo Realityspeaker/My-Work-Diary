@@ -1,17 +1,15 @@
+# 📊 Task & Progress Analytics: VMS
 
-# 📊 VMS – Task Analytics
+> Project analytics tracking development requirements, completed tasks, pending tasks, and daily progress.
 
-## Task Summary
+## 📈 Overall Metrics
 
-| Metric | Count |
-|---|---:|
-| Total Tasks | 4 |
-| Completed | 3 |
-| In Progress | 0 |
-| Pending | 1 |
-| Completion Rate | 75% |
+- **Total Tasks**: `4`
+- **Completed**: `3` (✅)
+- **Pending**: `1` (⏳)
+- **Resolution Rate**: `75%`
 
-## Task Status Distribution
+## 📊 Overall Task Distribution
 
 ```mermaid
 pie showData
@@ -20,23 +18,42 @@ pie showData
     "Pending" : 1
 ```
 
-## Task Details
+## 📅 Daily Throughput
 
-| Task | Status |
-|---|---|
-| Vehicle Due List Date Filters | Completed |
-| Remove Scrapped Vehicles | Completed |
-| Additional Admin ID | Completed |
-| Mapped Vehicle Registration in Driver List | Pending |
+| **Date** | **Completed** | **Pending** | **Total** | **Status** |
+|---|---:|---:|---:|---|
+| 06-11-2026 | 3 | 1 | 4 | ⏳ 1 Pending |
 
-## Overall Progress
+## 📉 Daily Development Progress
 
 ```mermaid
 xychart-beta
-    title "VMS Development Progress"
-    x-axis ["Completed", "Pending"]
+    title "VMS Daily Task Progress"
+    x-axis ["06-11-2026"]
     y-axis "Tasks" 0 --> 4
-    bar [3, 1]
+    bar [4]
+    line [3]
 ```
 
-**Last Updated:** 06 November 2026
+*Bar: Total Created | Line: Completed*
+
+## 📋 Task Details
+
+| Task Description | Status |
+|---|---|
+| Vehicle Due List – From Date & To Date | ✅ Completed |
+| Remove Scrapped Vehicles from Driver Mapping | ✅ Completed |
+| Create Additional Admin ID for Assistant In-charge | ✅ Completed |
+| Display Mapped Vehicle Registration Number in Driver List | ⏳ Pending |
+
+## 📌 Project Progress
+
+- **Total Requirements:** 4
+- **Completed Requirements:** 3
+- **Remaining Requirements:** 1
+- **Overall Progress:** 75%
+
+---
+
+*Last Updated: 06 November 2026*  
+*Project: Vehicle Management System (VMS)*
