@@ -1,4 +1,5 @@
 # My-Work-Diary
+
 Daily Software Development Work Reports and Progress.
 
 A centralized work diary to maintain daily activities, development tasks, technical issues, solutions, project progress, and performance analytics.
@@ -26,5 +27,18 @@ A centralized work diary to maintain daily activities, development tasks, techni
 - 📝 [Work Log](ESSL_Attendance/WorkLog.md)
 - 📈 [Task Analytics](ESSL_Attendance/Analytics.md)
 
+### 🏢 ERP Implementation
+- 📝 [Work Log](ERP_Implementation/Worklog.md)
+- 📈 [Task Analytics](ERP_Implementation/Analytics.md)
+
+**ERP Implementation Tracking:**
+- Examination Management
+- Auto Block Allotment
+- Examination Hall Seating Allocation
+- Attendance Reports
+- Exam Timetable Reports
+- Development completion and client-side review tracking
+
+---
 
 **Maintained daily | Software Development | Project Management**
