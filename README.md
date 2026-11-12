@@ -20,12 +20,12 @@ A centralized work diary to maintain daily activities, development tasks, techni
 - 📈 [Task Analytics](VMS/Analytics.md)
 
 ### 📱 Track Me – Student & Staff Tracking
-- 📝 [Work Log](Track_Me/WorkLog.md)
-- 📈 [Task Analytics](Track_Me/Analytics.md)
+- 📝 [Work Log](Track%20Me/Worklog.md)
+- 📈 [Task Analytics](Track%20Me/Analytics.md)
 
 ### 🕒 ESSL Attendance Automation
-- 📝 [Work Log](ESSL_Attendance/WorkLog.md)
-- 📈 [Task Analytics](ESSL_Attendance/Analytics.md)
+- 📝 [Work Log](ESSL%20Attendance%20Automation/WorkLog.md)
+- 📈 [Task Analytics](ESSL%20Attendance%20Automation/Analytics.md)
 
 ### 🏢 ERP Implementation
 - 📝 [Work Log](ERP_Implementation/Worklog.md)
@@ -40,7 +40,7 @@ A centralized work diary to maintain daily activities, development tasks, techni
 - Development completion and client-side review tracking
 
 ### 💼 OfficeManagementSystem
-- 📝 [Work Log](OfficeManagementSystem/WorkLog.md)
+- 📝 [Work Log](OfficeManagementSystem/Worklog.md)
 - 📈 [Task Analytics](OfficeManagementSystem/Analytics.md)
 
 **OfficeManagementSystem Tracking:**
