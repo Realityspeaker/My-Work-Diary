@@ -17,8 +17,8 @@
 
 | Module | Total | Completed | Pending |
 |---|---:|---:|---:|
-| Examination Management | 3 | 2 | 1 |
-| Examination Reports | 3 | 1 | 2 |
+| Attendance Management | 3 | 2 | 1 |
+| Attendance Reports | 3 | 1 | 2 |
 | **Total** | **6** | **3** | **3** |
 
 ## ✅ Completed Tasks
