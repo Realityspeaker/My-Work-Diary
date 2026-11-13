@@ -20,6 +20,31 @@
 | Pending | 7 |
 | Completion Rate | 82.50% |
 
+---
+
+## 🥧 Project-wise Task Distribution
+
+```mermaid
+pie showData
+    title Project-wise Task Distribution (40 Tasks)
+    "VMS" : 4
+    "ESSL Attendance Automation" : 7
+    "ERP Implementation" : 6
+    "Track Me" : 14
+    "OfficeManagementSystem" : 9
+```
+
+## 🥧 Overall Task Completion Status
+
+```mermaid
+pie showData
+    title Completed vs Pending Tasks
+    "Completed" : 33
+    "Pending" : 7
+```
+
+---
+
 ## 📊 Project-wise Progress
 
 | Project | Total Tasks | Completed | Pending | Progress |
@@ -33,13 +58,15 @@
 
 ## 📈 Project Completion Overview
 
-| Project | Completion |
-|---|---:|
-| VMS | 75% |
-| ESSL Attendance Automation | 57.14% |
-| ERP Implementation | 50% |
-| Track Me | 100% |
-| OfficeManagementSystem | 100% |
+```mermaid
+xychart-beta
+    title "Project Completion Percentage"
+    x-axis ["VMS", "ESSL", "ERP", "Track Me", "Office MS"]
+    y-axis "Completion %" 0 --> 100
+    bar [75, 57.14, 50, 100, 100]
+```
+
+---
 
 ## 📅 Daily Task Summary
 
@@ -66,6 +93,8 @@
 |---|---:|---:|---:|---:|
 | November 2026 | 40 | 33 | 7 | 82.50% |
 | **Total** | **40** | **33** | **7** | **82.50%** |
+
+---
 
 ## 📌 Project-wise Task Details
 
@@ -100,36 +129,39 @@
 - **Progress:** 50%
 
 **Completed Development Tasks:**
+
 1. Auto Block Allotment – Block & Subject Selection.
 2. Examination Hall Seating Allocation – incomplete seat allocation issue resolved.
 3. Attendance Report & Exam Timetable Report – required report updates completed.
 
-**Client Review:** All three completed development tasks were reviewed by the client on `13-11-2026`.
+**Client Review:**
+
+All three completed development tasks were reviewed by the client on `13-11-2026`.
 
 **New Requirements – Pending Development:**
 
-1. **Auto Block Allotment – Remaining Block & Subject Management**
-   - Display remaining unallotted blocks.
-   - Display only subjects that are yet to be allotted.
-   - Show the pending student count for each remaining subject.
-   - Exclude already allotted subjects from subsequent allotments.
+**1. Auto Block Allotment – Remaining Block & Subject Management**
+- Display remaining unallotted blocks.
+- Display only subjects that are yet to be allotted.
+- Show the pending student count for each remaining subject.
+- Exclude already allotted subjects from subsequent allotments.
 
-2. **Attendance List Report – Roll Number Display**
-   - Arrange student records in ascending order by Roll Number.
-   - Display Roll Number instead of Student ID.
-   - Remove unnecessary student identification details.
-   - Apply the same Roll Number requirement to relevant attendance reports, including the Ganesh Abs report.
+**2. Attendance List Report – Roll Number Display**
+- Arrange student records in ascending order by Roll Number.
+- Display Roll Number instead of Student ID.
+- Remove unnecessary student identification details.
+- Apply the same Roll Number requirement to relevant attendance reports, including the Ganesh Abs report.
 
-3. **Attendance List Report – Layout Changes**
-   - Display institute name as `Lingaraj College (Autonomous), Belagavi`.
-   - Display Block Number as `Hall No.`
-   - Remove Room Number.
-   - Show the attendance summary on the left side:
-     - Absent
-     - Present
-     - Not Eligible (NE)
-     - Total
-   - Show Signature of Invigilator and Date on the right side.
+**3. Attendance List Report – Layout Changes**
+- Display institute name as `Lingaraj College (Autonomous), Belagavi`.
+- Display Block Number as `Hall No.`
+- Remove Room Number.
+- Show the attendance summary on the left side:
+  - Absent
+  - Present
+  - Not Eligible (NE)
+  - Total
+- Show Signature of Invigilator and Date on the right side.
 
 ### 4. Track Me
 
@@ -141,6 +173,7 @@
 **Completed Activities:**
 
 **12-11-2026 – Login, Authentication & Testing**
+
 1. Student, Parent and Staff app login verification completed.
 2. Login and cookie management updated using `BL_Login` and `BL_Cookie`.
 3. Login/logout pages updated across all three applications.
@@ -150,6 +183,7 @@
 7. Student, Parent and Staff applications tested successfully.
 
 **13-11-2026 – Mobile Responsiveness & Enhancements**
+
 1. Staff App Attendance Report updated for mobile responsiveness.
 2. Staff App Alerts page implemented with a mobile-responsive design.
 3. Student App Alerts page implemented with a mobile app-style interface and responsive design.
@@ -164,6 +198,7 @@
 - **Progress:** 100%
 
 **12-11-2026 – Project Setup & Development Support**
+
 1. Existing project environment connected and configured.
 2. Project execution errors identified and resolved.
 3. Missing project files restored.
@@ -172,15 +207,19 @@
 6. Development setup guidance provided to Shraddha.
 7. Next development steps explained.
 
+---
+
 ## 🕒 Recent Implementation Updates
 
 ### 13-11-2026 – ERP Implementation
+
 - Client review completed for the three previously developed requirements.
 - Three additional requirements received from the client.
 - New requirements cover remaining block/subject allotment, Roll Number display and attendance report layout.
 - New development work is pending.
 
 ### 13-11-2026 – Track Me
+
 - Staff Attendance Report made mobile responsive.
 - Staff Alerts page implemented with responsive design.
 - Student Alerts page implemented with a mobile app-style responsive interface.
@@ -188,6 +227,7 @@
 - Updated pages tested successfully.
 
 ### 12-11-2026 – OfficeManagementSystem
+
 - Existing development environment connected.
 - Project errors resolved and missing files restored.
 - Successful execution verified.
@@ -195,6 +235,7 @@
 - Development guidance provided to Shraddha.
 
 ### 12-11-2026 – Track Me
+
 - Student, Parent and Staff login verification completed.
 - Login/logout and cookie management updated.
 - Authentication workflows tested.
@@ -202,6 +243,7 @@
 - All three applications tested successfully.
 
 ### 11-11-2026 – ERP Implementation
+
 - Auto Block Allotment block and subject selection implemented.
 - Examination Hall Seating Allocation issue resolved.
 - Attendance Report and Exam Timetable Report updated.
@@ -209,13 +251,17 @@
 - Client review was pending at the time and was completed on `13-11-2026`.
 
 ### 11-11-2026 – ESSL Attendance Automation
+
 - Chikmagalur Medical Science College implementation activities continued.
 - Student and staff data import completed.
 - Bug fixing, sorting and application-flow testing remained pending.
 
 ### 07-11-2026 – ESSL Attendance Automation
+
 - Database setup completed.
 - Login credentials created.
+
+---
 
 ## 🔍 Client Review Tracking
 
@@ -235,6 +281,8 @@
 | OfficeManagementSystem | 0 | All logged tasks completed |
 | **Total** | **7** | **Pending** |
 
+---
+
 ## 📝 Important Notes
 
 1. All project task records are maintained in their respective `WorkLog.md` and `Analytics.md` files.
@@ -245,6 +293,7 @@
 6. The three new ERP requirements received on 13-11-2026 are counted as pending development tasks.
 7. Track Me login verification, cookie management and testing activities are dated **12-11-2026**, not 12-06-2026.
 8. Dates are arranged in descending chronological order, with the latest updates displayed first.
+9. Both pie charts represent the current project and task status totals.
 
 ---
 
