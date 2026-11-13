@@ -31,27 +31,9 @@ A centralized work diary to maintain daily activities, development tasks, techni
 - 📝 [Work Log](ERP_Implementation/Worklog.md)
 - 📈 [Task Analytics](ERP_Implementation/Analytics.md)
 
-**ERP Implementation Tracking:**
-- Examination Management
-- Auto Block Allotment
-- Examination Hall Seating Allocation
-- Attendance Reports
-- Exam Timetable Reports
-- Development completion and client-side review tracking
-
 ### 💼 OfficeManagementSystem
 - 📝 [Work Log](OfficeManagementSystem/Worklog.md)
 - 📈 [Task Analytics](OfficeManagementSystem/Analytics.md)
 
-**OfficeManagementSystem Tracking:**
-- Project Connection & Setup
-- Existing Project Error Identification and Fixing
-- Missing Project Files Identification
-- Required Files Update
-- Project Execution and Verification
-- Technical Guidance and Support
-- Next Development Work Guidance
-
----
 
 **Maintained daily | Software Development | Project Management**
