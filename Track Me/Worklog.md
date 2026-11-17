@@ -1,6 +1,44 @@
 
 # 📓 Track Me Project – Daily Work Log
 
+## 📅 Date: 17-11-2026
+
+### 🔹 Task 1: Day-Wise Time Table Generation & Allocation – Grid List Page
+
+- **Project:** Track Me
+- **Module:** ERP – Staff Module (Time Table Management)
+- **Page:** `daywisetimetablelist.aspx`
+- **Requirement:** Develop a day-wise timetable generation and allocation page to generate recurring timetable schedules and save them into the `TimeTableStaff` table.
+
+**Work Done:**
+- Designed the timetable filter panel with Year, Month, Course, Course Term, Subject and Day dropdowns.
+- Implemented cascading dropdown functionality for Course, Course Term and Subject.
+- Developed GridView to display the generated timetable details.
+- Implemented dynamic timetable retrieval from the `TIMETABLE` table.
+- Developed save functionality to insert generated schedules into `TimeTableStaff`.
+- Implemented date calculation for recurring weekly lectures.
+- Added duplicate checking to prevent repeated timetable entries.
+- Handled database column mapping and required field values.
+
+**Challenges Resolved:**
+- Handled recurring timetable date calculations using day-wise scheduling.
+- Corrected SQL column mapping based on the actual database schema.
+- Resolved date and timetable template mapping differences.
+
+- **Status:** ✅ Completed and Tested
+
+---
+
+## 📊 Daily Summary
+
+- **Total Tasks:** 1
+- **Completed:** 1
+- **Pending:** 0
+
+## 📝 Remarks
+
+Successfully developed and tested the Day-Wise Time Table Generation and Allocation Grid List page, including timetable filtering, generation, date calculation and saving functionality.
+
 ## 📅 Date: 13-11-2026
 
 ### 🔹 Task 1: Staff App – Attendance Report Mobile Responsiveness
