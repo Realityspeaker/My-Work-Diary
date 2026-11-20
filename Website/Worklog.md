@@ -1,3 +1,24 @@
+## 📅 Date: 20-11-2026
+
+### 🔹 Task 1: Vidyaniketan Science College – Client Connectivity & New Requirements
+
+- **Project:** Website
+- **Client:** Vidyaniketan Science College
+- **Activity:** Client Discussion & Requirement Collection
+
+**Work Done:**
+- Connected with Vidyaniketan Science College.
+- Discussed new requirements with the client.
+- Collected initial information regarding the requested changes.
+- Followed up for the required data and content.
+- Awaiting the necessary data and content from the client to proceed with implementation.
+
+- **Status:** ⏳ Pending Client Data & Content
+
+### 📝 Remarks
+
+Connected with Vidyaniketan Science College and discussed new requirements. Implementation is currently pending because the required data and content have not yet been provided by the client.
+
 
 ## 📅 Date: 16-11-2026
 
