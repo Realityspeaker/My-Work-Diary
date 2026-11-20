@@ -23,7 +23,7 @@
 ---
 
 ## 🥧 Project-wise Task Distribution
-```java
+```mermaid
 pie showData
     title Project-wise Task Distribution (53 Tasks)
     "VMS" : 6
@@ -35,14 +35,13 @@ pie showData
 ```
 
 ## 🥧 Overall Task Completion Status
-```arduino
+```mermaid
 pie showData
     title Completed vs Pending Tasks
     "Completed" : 51
     "Pending" : 2
 ```
 
----
 
 ## 📊 Project-wise Progress
 
