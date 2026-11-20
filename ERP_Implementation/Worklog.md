@@ -1,6 +1,45 @@
 
 # 📓 ERP Implementation – Daily Work Log
 
+## 📅 Date: 20-11-2026
+
+### 🔹 Task 1: Lingaraj College (Autonomous), Belagavi – Subject & Subject Combination Issue
+
+- **Project:** ERP Implementation
+- **Client:** Lingaraj College (Autonomous), Belagavi
+- **Module:** Examination Management – Subject Management & Exam Timetable
+
+**Issue:** Subjects were not appearing while creating the examination timetable due to subject and subject combination mapping and examination settings.
+
+**Work Done:**
+- Connected with Lingaraj College regarding subject and subject combination issues.
+- Verified subject and subject combination mapping.
+- Checked examination settings and configuration.
+- Investigated why subjects were not listing during examination timetable creation.
+- Updated the necessary subject mappings and settings.
+- Rechecked the examination timetable creation process.
+- Confirmed that subjects were listing successfully.
+
+- **Status:** ✅ Resolved
+
+### 🔹 Task 2: Student Receipt – Individual Query Resolution
+
+- **Project:** ERP Implementation
+- **Module:** Student Fee & Receipt Management
+
+**Work Done:**
+- Addressed individual student receipt-related queries.
+- Verified the respective student receipt details.
+- Checked the reported issues one by one.
+- Made the necessary corrections.
+- Verified the corrected receipt details.
+
+- **Status:** ✅ Resolved
+
+### 📝 Remarks
+
+Successfully resolved the Lingaraj College subject listing issue by verifying and updating subject combinations and examination settings. Also addressed and corrected individual student receipt-related queries.
+
 ## 📅 Date: 19-11-2026
 
 ### 🔹 Task 1: Lingaraj College (Autonomous), Belagavi – Block Allotment Implementation & Training
